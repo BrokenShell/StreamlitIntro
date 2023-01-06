@@ -1,0 +1,7 @@
+streamlit
+watchdog
+pymongo[srv]
+pandas
+MonsterLab
+python-dotenv
+certifi
